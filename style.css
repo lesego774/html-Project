@@ -1,0 +1,30 @@
+
+  .libre-baskerville-bold {
+    font-family: "Libre Baskerville", serif;
+    font-weight:800;
+  }
+  
+  .background{
+    /*background-image:url("gravel.jpg");*/
+    background-color:black
+    
+  }
+#text{
+  color:red;
+  text-align: center;
+  text-transform: uppercase;
+}
+img{
+  border: 5px solid red;
+  text-align:center;
+  margin-left:350px;
+  margin-top: 45px;
+  
+  
+}
+p{
+  color:whitesmoke;
+  text-align:center;
+}
+
+  
